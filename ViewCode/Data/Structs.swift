@@ -18,6 +18,7 @@ struct ImagePokemon : Codable {
     enum CodingKeys: String, CodingKey {
         case frontDefault = "front_default"
     }
+    //Comentario
 }
 
 struct Abilities : Codable {
